@@ -296,7 +296,8 @@ const NavBar = () => {
             >
               <svg
                 className="w-5 h-5 transition-colors"
-                style={{ color: "var(--text-secondary)" }}
+                // style={{ color: "var(--text-secondary)" }}
+                style={{ color: "blue" }}
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"

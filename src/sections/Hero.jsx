@@ -558,7 +558,7 @@ const Hero = () => {
     link.click();
     document.body.removeChild(link);
   };
-
+  // Scroll to work section
   const scrollToWork = () => {
     document.getElementById("work")?.scrollIntoView({ behavior: "smooth" });
   };
