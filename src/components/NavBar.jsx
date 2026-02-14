@@ -286,7 +286,9 @@ const NavBar = () => {
             </a>
 
             <a
-              href="#contact"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=tharuneswardoddi@gmail.com"
+              target="_blank"
+              rel="noopener noreferrer"
               className="p-3 backdrop-blur-sm rounded-lg transition-all duration-300"
               style={{
                 backgroundColor: "var(--bg-card)",
@@ -296,8 +298,7 @@ const NavBar = () => {
             >
               <svg
                 className="w-5 h-5 transition-colors"
-                // style={{ color: "var(--text-secondary)" }}
-                style={{ color: "blue" }}
+                style={{ color: "var(--text-secondary)" }}
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"

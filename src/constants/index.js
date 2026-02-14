@@ -293,7 +293,7 @@ const testimonials = [
 const socialImgs = [
   {
     name: "github",
-    imgPath: "/images/github1.png",
+    imgPath: "/images/github.png",
     url: "https://github.com/Tharuneswar2",
   },
   {
@@ -304,7 +304,12 @@ const socialImgs = [
   {
     name: "contact",
     imgPath: "/images/chat.png",
-    url: "#contact",
+    url: "https://mail.google.com/mail/?view=cm&fs=1&to=tharuneswardoddi@gmail.com",
+  },
+  {
+    name: "Instagram",
+    imgPath: "/images/instagram.png",
+    url: "https://www.instagram.com/tharuneswar_2/",
   },
 ];
 
